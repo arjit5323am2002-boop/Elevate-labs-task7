@@ -6,7 +6,7 @@ This project is a clean, responsive, and modern web application that fetches and
 
 ## 📸 Screenshot
 
-![Users Directory Screenshot](./188ddd0c-4127-4348-bb66-b1e389ede465.png)
+![Users Directory Screenshot](./Screenshot%20(860).png)
 
 ---
 
