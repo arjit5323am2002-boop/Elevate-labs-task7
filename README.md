@@ -2,6 +2,8 @@
 
 This project is a clean, responsive, and modern web application that fetches and displays user data from the [JSONPlaceholder Public API](https://jsonplaceholder.typicode.com/users) using JavaScript’s `fetch()` method.
 
+Deployement LInk- https://arjit5323am2002-boop.github.io/Elevate-labs-task7/
+
 ---
 
 ## 📸 Screenshot
